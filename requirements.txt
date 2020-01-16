@@ -1,0 +1,14 @@
+# This will not work simply, the misbehaving packages could be downloaded from
+# https://www.lfd.uci.edu/~gohlke/pythonlibs/ but the links are not simple either
+# I could download the wheels and put them in my github, but that seems strange as well
+matplotlib
+numpy
+scipy
+pytest
+networkx
+rtree
+pyyaml
+requests
+trimesh
+pyglet
+shapely
